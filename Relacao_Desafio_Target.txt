@@ -1,0 +1,12 @@
+SELECT 
+c.idCliente,
+c.razaoSocial,
+t.numero
+FROM
+Cliente c
+Join
+Telefone t ON c.idCliente = t.idCliente
+Join
+Estado e ON c.idEstado = e.idEstado
+WHERE
+e.idEstado ='SP'

@@ -1,0 +1,27 @@
+DESAFIO CAMINHÃO:
+Distância entre Ribeirão Preto e Barretos: 125 km
+Velocidade carro: 90 km/h
+Velocidade caminhão: 80 km/h
+Tempo adicional do carro devido a pedágios: 15 minutos (ou 0,25 horas)
+
+90t+80(t+0,25)=125
+170t=105;
+t=105/170
+t=0.61 horas
+
+Distância carro = 
+90t;
+90*0.61= 55km(aproximadamente)
+
+Distância caminhão: 
+80(t+0.25)
+80*(0.61 + 0.25)= 69(aproximadamente)
+
+Portanto, o caminhão estará mais próximo de Ribeirão Preto no momento do cruzamento.
+
+
+
+
+
+
+ 
